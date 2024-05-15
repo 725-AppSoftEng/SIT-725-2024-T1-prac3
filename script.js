@@ -3,7 +3,7 @@ const cardList = [
         title: "Snooby",
         image: "Pup2.jpeg",
         link: "About Snooby",
-        descripton: "Hello! Hope you have a nice day!"
+        description: "Hello! Hope you have a nice day!"
     },
     {
         title: "Rocky",
